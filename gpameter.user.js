@@ -9,6 +9,7 @@
 
 var exclude_list = [
   'Minor Core',
+  'Minor Elective',
   'Honors Core',
   'Honours project',
   'Honours coursework',
